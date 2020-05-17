@@ -71,7 +71,7 @@ To create a Python script that calculates each of the following:
 
 * [Python](https://www.python.org/) - The development language used
 * [VSCode](https://code.visualstudio.com/) - The code editor
-* [Version Control](https://github.com/) - The version control software and repo
+* [GitHub](https://github.com/) - The version control software and repo
 
 ## Authors
 
