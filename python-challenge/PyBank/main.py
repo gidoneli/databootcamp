@@ -30,12 +30,13 @@ with open(csvpath,"r") as csvfile:
     #Reference: https://www.w3schools.com/python/ref_func_len.asp
     for i in range(len(profit)-1):
         Profit_Variation.append(profit[i+1]-profit[i])
-                      
+
 # Get the minimum and maximum values on the List Profit_Variation, using Min and Max functions
 # Max function: This function is used to compute the maximum of the values passed in its argument
 # Min function: This function is used to compute the minimum of the values passed in its argument
 profit_increase = max(Profit_Variation)
 profit_decrease = min(Profit_Variation)
+
 
 #using the index() method to search an element in the list and to return its index.
 month_profit_increase = Profit_Variation.index(max(Profit_Variation))+1
