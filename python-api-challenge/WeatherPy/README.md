@@ -31,6 +31,8 @@ A scatter plot can be used either when one continuous variable that is under the
 The measured or dependent variable is customarily plotted along the vertical axis, that is the case of Temperature. The scatter plot can suggest various kinds of correlations between variables with a certain confidence interval.
 We can see that Temperature on the low and high values of Latitude is cold. That is an expected behavior, because those cities are close to the poles. Cities at the center of the earth are quite warm and hot and it is also demonstrated on the scatter plot.
 
+https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Latitude_vs_Temperature.png
+
 ### Results: Latitude vs. Humidity Plot
 The measured or dependent variable is customarily plotted along the vertical axis, that is the case of Humidity. The scatter plot can suggest various kinds of correlations between variables with a certain confidence interval.
 We can see some kind of correlation between these two variables. Humidity is more correlated in cities with Latitude above 0, so it increases when we move to cities with Latitude between 60 to 80.
