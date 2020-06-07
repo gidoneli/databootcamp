@@ -37,13 +37,18 @@ We can see that Temperature on the low and high values of Latitude is cold. That
 The measured or dependent variable is customarily plotted along the vertical axis, that is the case of Humidity. The scatter plot can suggest various kinds of correlations between variables with a certain confidence interval.
 We can see some kind of correlation between these two variables. Humidity is more correlated in cities with Latitude above 0, so it increases when we move to cities with Latitude between 60 to 80.
 
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Latitude_vs_Humidity.png?raw=true)
+
 ### Results: Latitude vs. Cloudiness Plot
 The measured or dependent variable is customarily plotted along the vertical axis, that is the case of Clodiness. The scatter plot can suggest various kinds of correlations between variables with a certain confidence interval.
 We can not appreciate a clear correlation between two variables bacuase all the points are spread along the graph.
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Latitude_vs_Cloudiness.png?raw=true)
 
 ### Results: Latitude vs. Wind Speed Plot
 The measured or dependent variable is customarily plotted along the vertical axis, that is the case of Wind Speed. The scatter plot can suggest various kinds of correlations between variables with a certain confidence interval.
 We can not appreciate a clear correlation between two variables bacuase all the points are spread along the graph.
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Latitude_vs_WindSpeed.png?raw=true)
+
 
 ### LINEAR REGRESSION
 ### 1. Northern Hemisphere - Max Temp vs. Latitude Linear Regression¶
