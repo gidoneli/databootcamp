@@ -31,65 +31,77 @@ A scatter plot is a type of a mathematical diagram using Cartesian coordinates t
 A scatter plot can be used either when one continuous variable that is under the control of the experimenter and the other depends on it. In this case we are analyzing how the Temperature behaves along the Latitude of cities.
 The measured or dependent variable is customarily plotted along the vertical axis, that is the case of Temperature. The scatter plot can suggest various kinds of correlations between variables with a certain confidence interval.
 We can see that Temperature on the low and high values of Latitude is cold. That is an expected behavior, because those cities are close to the poles. Cities at the center of the earth are quite warm and hot and it is also demonstrated on the scatter plot.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Latitude_vs_Temperature.png?raw=true)
 
 
 ### Results: Latitude vs. Humidity Plot
 The measured or dependent variable is customarily plotted along the vertical axis, that is the case of Humidity. The scatter plot can suggest various kinds of correlations between variables with a certain confidence interval.
 We can see some kind of correlation between these two variables. Humidity is more correlated in cities with Latitude above 0, so it increases when we move to cities with Latitude between 60 to 80.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Latitude_vs_Humidity.png?raw=true)
 
 
 ### Results: Latitude vs. Cloudiness Plot
 The measured or dependent variable is customarily plotted along the vertical axis, that is the case of Clodiness. The scatter plot can suggest various kinds of correlations between variables with a certain confidence interval.
 We can not appreciate a clear correlation between two variables bacuase all the points are spread along the graph.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Latitude_vs_Cloudiness.png?raw=true)
 
 
 ### Results: Latitude vs. Wind Speed Plot
 The measured or dependent variable is customarily plotted along the vertical axis, that is the case of Wind Speed. The scatter plot can suggest various kinds of correlations between variables with a certain confidence interval.
 We can not appreciate a clear correlation between two variables bacuase all the points are spread along the graph.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Latitude_vs_WindSpeed.png?raw=true)
 
 
 ### LINEAR REGRESSION
 ### 1. Northern Hemisphere - Max Temp vs. Latitude Linear Regression¶
 Linear regression has a r-squared value of -0.75. There is a medium to hight negative linear relation between latitude and temperature when both are descreasing in the Northern Hemisphere. We can observe that 75% of the variance is explained by this linear model.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Output/fig_reg1.png?raw=true)
 
 
 ### 2. Southern Hemisphere - Max Temp vs. Latitude Linear Regression
 Linear regression has a r-squared value of -0.81. There is a hight linear relation between latitude and temperature when both are increasing in the Southern Hemisphere. We can observe that 81% of the variance is explained by this linear model - strong correlation.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Output/fig_reg2.png?raw=true)
 
 
 ### 3. Northern Hemisphere - Humidity (%) vs. Latitude Linear Regression
 Linear regression has a r-squared value of -0.81. There is a hight linear relation between latitude and temperature when both are increasing in the Southern Hemisphere. We can observe that 81% of the variance is explained by this linear model - strong correlation.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Output/fig_reg3.png?raw=true)
 
 
 ### 4. Southern Hemisphere - Humidity (%) vs. Latitude Linear Regression
 Linear regression has a r-squared value of -0.067. There is a minimum linear relation between latitude and humidity when both are increasing in the Southern Hemisphere. We can observe that 6.79% of the variance is explained by this linear model - minimum correlation.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Output/fig_reg4.png?raw=true)
 
 
 ### 5. Northern Hemisphere - Cloudiness (%) vs. Latitude Linear Regression
 Linear regression has a r-squared value of -0.1186. There is a weak linear relation between latitude and Cloudiness when both are increasing in the Northern Hemisphere. We can observe that 11.86% of the variance is explained by this linear model - weak correlation.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Output/fig_reg5.png?raw=true)
 
 
 ### 6. Southern Hemisphere - Cloudiness (%) vs. Latitude Linear Regression
 Linear regression has a r-squared value of -0.026. There is a minimum linear relation between latitude and Cloudiness when both are increasing in the Southern Hemisphere. We can observe that 2.61% of the variance is explained by this linear model - minimum correlation.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Output/fig_reg6.png?raw=true)
 
 
 ### 7. Northern Hemisphere - Wind Speed (mph) vs. Latitude Linear Regression
 Linear regression has a r-squared value of -0.028. There is a minimum linear relation between latitude and wind speed when both are increasing in the Northern Hemisphere. We can observe that 2.8% of the variance is explained by this linear model - almost no correlation exist.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Output/fig_reg7.png?raw=true)
 
 
 ### 8. Southern Hemisphere - Wind Speed (mph) vs. Latitude Linear Regression
 Linear regression has a r-squared value of -0.135. There is a minimum linear relation between latitude and wind speed when both are increasing in the Southern Hemisphere. We can observe that 13.5% of the variance is explained by this linear model - Minimym correlation is appreciated.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Output/fig_reg8.png?raw=true)
 
 
@@ -99,6 +111,8 @@ Plan future vacations - Use jupyter-gmaps and the Google Places API for this par
 
 Create a heat map that displays the humidity for every city from the part I of the homework.
 
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Output/map1.png?raw=true)
+
 
 
 Narrow down the DataFrame to find your ideal weather condition. For example:
@@ -106,6 +120,9 @@ Narrow down the DataFrame to find your ideal weather condition. For example:
 * Wind speed less than 10 mph.
 * Zero cloudiness.
 * Drop any rows that don’t contain all three conditions. You want to be sure the weather is ideal.
+
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/python-api-challenge/WeatherPy/Output/map2.png?raw=true)
+
 
 
 ## Built With
