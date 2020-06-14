@@ -15,14 +15,16 @@ Relevant facts are:
 * More the 9% Of the Mexican GDP is related to tourism
 * OCDE countries are 4.7% average
 * Tax Collection in Mexico is close to 14% of GDP. Tourism is almost equally important.
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Tourism_Economy.png?raw=true)
+
 
 ## Data Analytics process
 The data analytics process we will follow on this exercise is illustrated on the following figure.
-<Insert figure here>
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Process01.png?raw=true)
 
 ## 1. Decompose the ask
 THE ASK: How the employment in tourism in Mexico, during holy week 2020, was impacted by unpredicted events (COVID-19). From perception to real facts supported by data.
-<Insert figure here>
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Decompose_the_ask.png?raw=true)
 
 ## 2. Identify Data Sources
 Data sources are listed here:
@@ -62,24 +64,27 @@ So what all of this mean? At the end the index give us a proportion of the emplo
 * Based in the last 3 years we analyze how the occupancy has been.  
 * Increase of 4% from 2018 to 2019.
 * Decrease of 96% from 2019 to 2020
-<Insert Image Here>
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Hotel_Ocuppancy.png?raw=true)
 
 ### Unemployment
 * In the bar plot we present how unemployment affects each city in Mexico
 * The cities with higher unemployment are: Puerto Escondido, Oaxaca, Cancun, Cozumel
-<Insert Image Here>
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Unemployment.png?raw=true)
 
 ### Airport Arrivals
 * Based on the international flights we analyzed the decrease in tourism
 * Decrease of 98% from 2019 to 2020
-<Insert Image Here>
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Airport_Arrivals.png?raw=true)
 
 ### Representation of unemployment impact
 * A heatmap using google API has been used i order to represent economic impact
 * Google API has been used also to represent locations
-<Insert Image Here>
-<Insert Image Here>
-<Insert Image Here>
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Map01.png?raw=true)
+
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Map02.png?raw=true)
+
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Map03.png?raw=true)
+
 
 ## Part II - Final Conclusions
 ### Challenges
