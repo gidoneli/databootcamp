@@ -77,9 +77,9 @@ https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQ
 
 
 
-Image of Plot from Jupyter Notebook is here
+Image of Plot from Jupyter Notebook is here:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Decompose_the_ask.png?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/jupyter_plot.png?raw=true)
 
 
 ## Built With
