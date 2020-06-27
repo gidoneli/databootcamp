@@ -67,9 +67,7 @@ Data sources are listed here:
 
 Please refer to the Jupyter Notebook file: <B>BONUS_sqlchallenge.ipynb</B>
 
-Jupyter Notebook File here:
-
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Decompose_the_ask.png?raw=true)
+https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/BONUS_sqlchallenge.ipynb
 
 
 
