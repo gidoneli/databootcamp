@@ -73,9 +73,8 @@ https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQ
 
 Please refer to the Python file: <B>BONUS_sqlchallenge.py</B>
 
-Python File here:
+https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/BONUS_sqlchallenge.py
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Decompose_the_ask.png?raw=true)
 
 
 Image of Plot from Jupyter Notebook is here
