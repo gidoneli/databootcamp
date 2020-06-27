@@ -35,6 +35,8 @@ I imported each CSV file into the corresponding SQL table. Note be sure to impor
 
 ### Source SQL File for creating the DB Schema
 Please refer to the file: <B>SQL_Tables_Schema.sql</B>
+https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/SQL_Tables_Schema.sql
+
 
 The following image illustrated the outcome on the PGAdmin Tool.
 
