@@ -22,7 +22,7 @@ I have been provided with six CSV data source files as follow:
 
 Using the data modeling tool I have produced the followinf data diagram:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Tourism_Economy.png?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/QuickDBD-Free%20Diagram.png?raw=true)
 
 
 ## Data Engineering
