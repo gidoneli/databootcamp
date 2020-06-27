@@ -38,7 +38,7 @@ Please refer to the file: <B>SQL_Tables_Schema.sql</B>
 
 The following image illustrated the outcome on the PGAdmin Tool.
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Process01.png?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/PGAdmin_db.jpg?raw=true)
 
 
 ## Data Analysis
