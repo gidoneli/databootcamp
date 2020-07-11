@@ -22,7 +22,7 @@ I have been provided with six CSV data source files as follow:
 
 Using the data modeling tool I have produced the followinf data diagram:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Tourism_Economy.png?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/QuickDBD-Free%20Diagram.png?raw=true)
 
 
 ## Data Engineering
@@ -36,9 +36,12 @@ I imported each CSV file into the corresponding SQL table. Note be sure to impor
 ### Source SQL File for creating the DB Schema
 Please refer to the file: <B>SQL_Tables_Schema.sql</B>
 
+https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/SQL_Tables_Schema.sql
+
+
 The following image illustrated the outcome on the PGAdmin Tool.
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Process01.png?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/PGAdmin_db.jpg?raw=true)
 
 
 ## Data Analysis
@@ -55,9 +58,7 @@ I have created the following queries to analyse the data:
 ### Source SQL File for queries
 Please refer to the file: <B>SQL_Queries.sql</B>
 
-SQL File here:
-
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Decompose_the_ask.png?raw=true)
+https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/SQL_Queries.sql
 
 
 
@@ -66,22 +67,19 @@ Data sources are listed here:
 
 Please refer to the Jupyter Notebook file: <B>BONUS_sqlchallenge.ipynb</B>
 
-Jupyter Notebook File here:
-
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Decompose_the_ask.png?raw=true)
+https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/BONUS_sqlchallenge.ipynb
 
 
 
 Please refer to the Python file: <B>BONUS_sqlchallenge.py</B>
 
-Python File here:
-
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Decompose_the_ask.png?raw=true)
+https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/BONUS_sqlchallenge.py
 
 
-Image of Plot from Jupyter Notebook is here
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Decompose_the_ask.png?raw=true)
+Image of Plot from Jupyter Notebook is here:
+
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/sql-challenge/EmployeeSQL/jupyter_plot.png?raw=true)
 
 
 ## Built With
