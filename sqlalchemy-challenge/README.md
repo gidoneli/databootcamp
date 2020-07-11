@@ -10,6 +10,7 @@ Use Python and SQLAlchemy to do basic climate analysis and data exploration of a
 
 
 * Select only the date and prcp values.
+
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/sqlalchemy-challenge/images/Plot00.jpg?raw=true)
 
 
@@ -83,7 +84,7 @@ Routes:
 * /api/v1.0/<start> and /api/v1.0/<start>/<end>
 
 Refer to the APP.PY File here: 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Tourism_Economy.png?raw=true)
+https://github.com/raulfloresp/databootcamp/blob/master/sqlalchemy-challenge/app.py
 
 
 ## BONUS
