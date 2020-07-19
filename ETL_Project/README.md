@@ -10,7 +10,7 @@ For this project we have decided to work with information from movies as is some
 ## Project Report
 We have generated a detailed project report that can be found here:
 
-https://github.com/raulfloresp/databootcamp/index.html
+https://github.com/raulfloresp/databootcamp/blob/master/ETL_Project/ETL_Project_Report_Anacondas.pdf
 
 
 ## Data Sources
@@ -23,21 +23,21 @@ https://www.themoviedb.org/?language=es
 The database design is illustrated here:
 
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Tourism_Economy.png?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/ETL_Project/DB_design/Proyecto_ETL.png?raw=true)
 
 
 
 ## Data Cleansing
 Data cleansing was perfomed in Pandas and I have attached the associated Jupyter Notebook here:
 
-https://github.com/raulfloresp/databootcamp/index.html
+https://github.com/raulfloresp/databootcamp/tree/master/ETL_Project/Jupyter_notebooks
 
 
 
 ## Database Schema creation
 The database schema on Postgree SQL is detailed here:
 
-https://github.com/raulfloresp/databootcamp/index.html
+https://github.com/raulfloresp/databootcamp/tree/master/ETL_Project/SQL_files
 
 
 ## Conclusions
