@@ -1,0 +1,52 @@
+director
+-
+director_ID PK int
+director-name string INDEX
+
+genero
+-
+genre_ID PK int
+gebre_name string INDEX
+
+country
+-
+country_ID PK int
+country_name string INDEX
+
+clasificacion
+-
+clasificacion_ID PK int
+clasificacion_name string INDEX
+
+movies
+-
+movie_ID PK int 
+movie_name string INDEX
+director_ID int FK >- director.director_ID
+genre_ID int FK >- genero.genre_ID
+budget float
+revenue float
+runtime int
+year int
+country_ID int FK >- country.country_ID 
+clasificacion_ID int FK >- clasificacion.clasificacion_ID
+
+movie_rate
+-
+rate_ID PK int
+movie_ID int FK >- movies.movie_ID 
+imdb_rate float
+tomatoe_rate float
+imdb_votes float
+imdb_votes_count int
+popularity float
+movie_rate float
+
+streaming_disp
+-
+streaming_ID PK int
+movie_ID int FK >- movies.movie_ID
+netflix int
+hulu int
+prime_video int
+disney int
