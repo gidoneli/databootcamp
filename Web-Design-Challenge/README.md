@@ -14,9 +14,9 @@ Web Pages created are:
 * An explanation of the project.
 * Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
 
-https://github.com/raulfloresp/databootcamp/index.html
+https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/index.html
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Tourism_Economy.png?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Landing_Page.jpg?raw=true)
 
 
 ## Visualizations Pages
@@ -30,9 +30,9 @@ These visualizations include:
 * The plot/visualization itself for the selected comparison.
 * A paragraph describing the plot and its significance.
 
-https://github.com/raulfloresp/databootcamp/index.html
+https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/visual01.html
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Tourism_Economy.png?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Visualizations_Page.jpg?raw=true)
 
 
 ## A comparisons page
@@ -40,9 +40,9 @@ Contains all of the visualizations on the same page so we can easily visually co
 * Uses a Bootstrap grid for the visualizations.
 * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
 
-https://github.com/raulfloresp/databootcamp/index.html
+https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/comparison.html
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Tourism_Economy.png?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Comparisons.jpg?raw=true)
 
 
 ## A Data page
@@ -50,9 +50,9 @@ Displays a responsive table containing the data used in the visualizations.
 * The table must be a bootstrap table component.
 * The data must come from exporting the .csv file as HTML, or converting it to HTML.
 
-https://github.com/raulfloresp/databootcamp/index.html
+https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/data.html
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Tourism_Economy.png?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Data.jpg?raw=true)
 
 
 ## Main design considerations
@@ -64,7 +64,7 @@ The website must, at the top of every page, have a navigation menu that:
 * Is responsive (using media queries). The nav must have similar behavior as the screenshots “Navigation Menu” section (notice the background color change).
 
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project01/Images/Tourism_Economy.png?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Nav_Bar.jpg?raw=true)
 
 
 
