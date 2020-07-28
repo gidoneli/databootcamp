@@ -12,13 +12,13 @@ In this assignment, I built a web application that scrapes various websites for 
 
 The Julyter Notebook can be located here:
 
-https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/index.html
+https://github.com/raulfloresp/databootcamp/blob/master/web-scraping-challenge/Mission_to_mars.ipynb
 
 
 ## NASA Mars News
 Scrape the NASA Mars News Site and collect the latest News Title and Paragraph Text. Assign the text to variables that you can reference later.
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Landing_Page.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/web-scraping-challenge/images/Nasa_News.jpg?raw=true)
 
 
 ## JPL Mars Space Images - Featured Image
@@ -29,7 +29,7 @@ Scrape the NASA Mars News Site and collect the latest News Title and Paragraph T
 
 Featured Imaged is illustrated bellow:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Landing_Page.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/web-scraping-challenge/images/Featured_image.jpg?raw=true)
 
 
 
@@ -40,7 +40,7 @@ Visit the Mars Weather twitter account here and scrape the latest Mars weather t
 
 Results are illustrated bellow:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Visualizations_Page.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/web-scraping-challenge/images/Weather_Jup.jpg?raw=true)
 
 
 ## Mars Facts
@@ -50,7 +50,7 @@ Results are illustrated bellow:
 
 Results are illustrated bellow:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Visualizations_Page.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/web-scraping-challenge/images/Facts_notebook.jpg?raw=true)
 
 
 ## Mars Hemispheres
@@ -59,7 +59,7 @@ You will need to click each of the links to the hemispheres in order to find the
 Save both the image url string for the full resolution hemisphere image, and the Hemisphere title containing the hemisphere name. Use a Python dictionary to store the data using the keys img_url and title.
 Append the dictionary with the image url string and the hemisphere title to a list. This list will contain one dictionary for each hemisphere.
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Comparisons.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/web-scraping-challenge/images/Hemispheres_Notebook.jpg?raw=true)
 
 
 # Step 2 - MongoDB and Flask Application
@@ -67,24 +67,24 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 The app.py file is located here:
 
-https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/comparison.html
+https://github.com/raulfloresp/databootcamp/blob/master/web-scraping-challenge/app.py
 
 
 The scrape_mars.py file is located here:
 
-https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/comparison.html
+https://github.com/raulfloresp/databootcamp/blob/master/web-scraping-challenge/scrape_mars.py
 
 
 The MongoDB database is illustrated here:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Comparisons.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/web-scraping-challenge/images/mongo.jpg?raw=true)
 
 
 The HTML Template is illustrated here:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Comparisons.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/web-scraping-challenge/images/html01.jpg?raw=true)
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Web-Design-Challenge/WebVisualizations/Assets/Comparisons.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/web-scraping-challenge/images/Hemispheres.jpg?raw=true)
 
 
 
