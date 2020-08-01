@@ -12,9 +12,10 @@ from sqlalchemy import create_engine, func
 from sqlalchemy import create_engine, inspect
 
 from flask import Flask
+from flask import jsonify
 
 #engine = create_engine("sqlite:///Resources/hawaii.sqlite")
-engine = create_engine("sqlite:///hawaii.sqlite")
+engine = create_engine("sqlite:///hawaii.sqlite", connect_args={"check_same_thread": False})
 
 
 # reflect an existing database into a new model
@@ -32,6 +33,10 @@ Station = Base.classes.station
 
 # Create our session (link) from Python to the DB
 session = Session(engine)
+
+#Get the table names
+inspector = inspect(engine)
+inspector.get_table_names()
 
 #Setup Flask
 app = Flask(__name__)
@@ -76,8 +81,8 @@ def main():
         f"/api/v1.0/precipitation<br/>"
         f"/api/v1.0/stations<br/>"
         f"/api/v1.0/tobs<br/>"
-        f"/api/v1.0/<start><br/>"
-        f"/api/v1.0/<start>/<end>"
+        f"/api/v1.0/2016-08-23<br/>"
+        f"/api/v1.0/2016-08-23/2017-08-20"
     )
 
 # PRECIPITATION: /api/v1.0/precipitation
@@ -109,7 +114,6 @@ def precipitation():
 
 # Return the JSON representation of your dictionary.
     return jsonify(query_results_dict)
-
 
 
 # STATIONS
