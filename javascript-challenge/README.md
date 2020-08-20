@@ -14,12 +14,12 @@ We need you to write code that will create a table dynamically based upon a data
 
 * The link to the page is located here:
 
-https://github.com/raulfloresp/databootcamp/blob/master/sqlalchemy-challenge/images/Plot00.jpg
+https://github.com/raulfloresp/databootcamp/tree/master/javascript-challenge/UFO-level-1
 
 
 The final webpage look is illustrated here:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/sqlalchemy-challenge/images/Plot_Pandas.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/javascript-challenge/images/challenge1.jpg?raw=true)
 
 
 
@@ -34,12 +34,12 @@ Complete all of Level 1 criteria. Using multiple input tags and/or select dropdo
 
 * The link to the page is located here:
 
-https://github.com/raulfloresp/databootcamp/blob/master/sqlalchemy-challenge/images/Plot00.jpg
+https://github.com/raulfloresp/databootcamp/tree/master/javascript-challenge/UFO-level-2
 
 
 The final webpage look is illustrated here:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/sqlalchemy-challenge/images/Plot_Pandas.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/javascript-challenge/images/challenge2.jpg?raw=true)
 
 
 
