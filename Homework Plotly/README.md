@@ -1,37 +1,40 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
+# Plot.ly Homework - Belly Button Biodiversity
 ## Date: Agosto 2020
 ### By Raúl Flores Palacios
 
 ## INTRODUCTION 
-We need you to write code that will create a table dynamically based upon a dataset we provide. We also need to allow our users to filter the table data for specific values. There’s a catch though… we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
+Interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
+The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 
-## Level 1: Automatic Table and Date Search (Required)
-* Create a basic HTML web page or use the index.html file provided (we recommend building your own custom page!).
-* Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
-* Make sure you have a column for date/time, city, state, country, shape, and comment at the very least.
-* Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
-
-* The link to the page is located here:
-
-https://github.com/raulfloresp/databootcamp/tree/master/javascript-challenge/UFO-level-1
+## Step 1: Plotly Bar Chart and Bubble Chart
+* Use the D3 library to read in samples.json.
+* Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+* Use sample_values as the values for the bar chart.
+* Use otu_ids as the labels for the bar chart.
+* Use otu_labels as the hovertext for the chart.
 
 
-The final webpage look is illustrated here:
-
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/javascript-challenge/images/challenge1.jpg?raw=true)
-
-
-
-## Level 2: Multiple Search Categories (Optional) - BONUS
-Complete all of Level 1 criteria. Using multiple input tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
-* date/time
-* city
-* state
-* country
-* shape
+## Step 1: Plotly Bubble Chart
+* Create a bubble chart that displays each sample.
+* Use otu_ids for the x values.
+* Use sample_values for the y values.
+* Use sample_values for the marker size.
+* Use otu_ids for the marker colors.
+* Use otu_labels for the text values.
+* Display the sample metadata, i.e., an individual’s demographic information.
+* Display each key-value pair from the metadata JSON object somewhere on the page.
+* Update all of the plots any time that a new sample is selected.
 
 
+## Advanced Challenge Assignment (Optional)
+* Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
+* You will need to modify the example gauge code to account for values ranging from 0 through 9.
+* Update the chart whenever a new sample is selected.
+
+
+
+## Final Result
 * The link to the page is located here:
 
 https://github.com/raulfloresp/databootcamp/tree/master/javascript-challenge/UFO-level-2
@@ -45,9 +48,11 @@ The final webpage look is illustrated here:
 
 ## Built With
 
+* [Plotly](https://plotly.com/) - Chart Library
 * [Visual Studio Code](https://code.visualstudio.com/) - Source Code Editor
 * [GitHub](https://github.com/) - The version control software and repo
 * [Bootstrap](https://getbootstrap.com/) - Javascript Framework
+
 
 
 ## Authors
