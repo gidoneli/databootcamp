@@ -42,7 +42,7 @@ https://github.com/raulfloresp/databootcamp/tree/master/javascript-challenge/UFO
 
 The final webpage look is illustrated here:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/javascript-challenge/images/challenge2.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Homework%20Plotly/images/index.jpg?raw=true)
 
 
 
