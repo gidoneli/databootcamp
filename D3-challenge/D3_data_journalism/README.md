@@ -20,12 +20,12 @@ The editor wants to run a series of feature stories about the health risks facin
 
 * The link to the page is located here:
 
-https://github.com/raulfloresp/databootcamp/tree/master/javascript-challenge/UFO-level-1
+https://github.com/raulfloresp/databootcamp/blob/master/D3-challenge/D3_data_journalism/index.html
 
 
 The final webpage look is illustrated here:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/javascript-challenge/images/challenge1.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/D3-challenge/D3_data_journalism/images/final_chart.jpg?raw=true)
 
 
 
