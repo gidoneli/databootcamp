@@ -93,7 +93,7 @@ function makeResponsive() {
         //Establish a color scale for plotting poverty data by color on the graph.
         var colorScale = d3.scaleLinear()
             .domain([d3.min(UsaCensusData, d => d.poverty), d3.mean(UsaCensusData, d => d.poverty), d3.max(UsaCensusData, d => d.poverty)])
-            .range(["steelblue", "purple", "blue"]);
+            .range(["yellow", "orange", "blue"]);
 
         //CREATE TOOLTIP
         //I have used this tips tool: https://github.com/VACLab/d3-tip
@@ -118,7 +118,7 @@ function makeResponsive() {
             .attr("class", "circle")
             .attr("cx", d => xLinearScale(d.age))
             .attr("cy", d => yLinearScale(d.smokes))
-            .attr("r", d => ((d.income * d.income) / 100000000))
+            .attr("r", d => ((d.healthcare * d.healthcare) / 11))
             .attr("fill", function(d) { return colorScale(d.poverty); })
             .attr("opacity", "0.8")
             .style("stroke", "white")
@@ -142,14 +142,14 @@ function makeResponsive() {
             .attr("y", 0 - margin.left + 10)
             .attr("x", 0 - (scatterHeight / 2))
             .attr("class", "axisText")
-            .text("poverty Index");
+            .text("smokers index");
 
         //X axis label
         chartGroup.append("text")
             .attr("y", scatterHeight + margin.top + 5)
             .attr("x", scatterWidth / 2)
             .attr("class", "axisText")
-            .text("age Index");
+            .text("age index");
 
 
     });
