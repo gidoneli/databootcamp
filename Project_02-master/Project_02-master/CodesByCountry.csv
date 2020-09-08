@@ -1,0 +1,210 @@
+﻿code ,total,region ,sub region ,country 
+B05006_001E,Total,,,
+B05006_002E,Total,Europe,,
+B05006_003E,Total,Europe,Northern Europe,
+B05006_004E,Total,Europe,Northern Europe,United Kingdom
+B05006_005E,Total,Europe,Northern Europe,United Kingdom exc Eng Sco
+B05006_006E,Total,Europe,Northern Europe,England
+B05006_007E,Total,Europe,Northern Europe,Scotland
+B05006_008E,Total,Europe,Northern Europe,Ireland
+B05006_009E,Total,Europe,Northern Europe,Denmark
+B05006_010E,Total,Europe,Northern Europe,Norway
+B05006_011E,Total,Europe,Northern Europe,Sweden
+B05006_012E,Total,Europe,Northern Europe,Other Northern Europe
+B05006_013E,Total,Europe,Western Europe,
+B05006_014E,Total,Europe,Western Europe,Austria
+B05006_015E,Total,Europe,Western Europe,Belgium
+B05006_016E,Total,Europe,Western Europe,France
+B05006_017E,Total,Europe,Western Europe,Germany
+B05006_018E,Total,Europe,Western Europe,Netherlands
+B05006_019E,Total,Europe,Western Europe,Switzerland
+B05006_020E,Total,Europe,Western Europe,Other Western Europe
+B05006_021E,Total,Europe,Southern Europe,
+B05006_022E,Total,Europe,Southern Europe,Greece
+B05006_023E,Total,Europe,Southern Europe,Italy
+B05006_024E,Total,Europe,Southern Europe,Portugal
+B05006_025E,Total,Europe,Southern Europe,Azores Islands
+B05006_026E,Total,Europe,Southern Europe,Spain
+B05006_027E,Total,Europe,Southern Europe,Other Southern Europe
+B05006_028E,Total,Europe,Eastern Europe,
+B05006_029E,Total,Europe,Eastern Europe,Albania
+B05006_030E,Total,Europe,Eastern Europe,Belarus
+B05006_031E,Total,Europe,Eastern Europe,Bulgaria
+B05006_032E,Total,Europe,Eastern Europe,Croatia
+B05006_033E,Total,Europe,Eastern Europe,Czechoslovakia
+B05006_034E,Total,Europe,Eastern Europe,Hungary
+B05006_035E,Total,Europe,Eastern Europe,Latvia
+B05006_036E,Total,Europe,Eastern Europe,Lithuania
+B05006_037E,Total,Europe,Eastern Europe,Macedonia
+B05006_038E,Total,Europe,Eastern Europe,Moldova
+B05006_039E,Total,Europe,Eastern Europe,Poland
+B05006_040E,Total,Europe,Eastern Europe,Romania
+B05006_041E,Total,Europe,Eastern Europe,Russia
+B05006_042E,Total,Europe,Eastern Europe,Ukraine
+B05006_043E,Total,Europe,Eastern Europe,Bosnia and Herzegovina
+B05006_044E,Total,Europe,Eastern Europe,Serbia
+B05006_045E,Total,Europe,Eastern Europe,Other Eastern Europe
+B05006_046E,Total,Europe,"Europe, n.e.c.",
+B05006_047E,Total,Asia,,
+B05006_048E,Total,Asia,Eastern Asia,
+B05006_049E,Total,Asia,Eastern Asia,China
+B05006_050E,Total,Asia,Eastern Asia,China excluding Hong Kong and Taiwan
+B05006_051E,Total,Asia,Eastern Asia,Hong Kong
+B05006_052E,Total,Asia,Eastern Asia,Taiwan
+B05006_053E,Total,Asia,Eastern Asia,Japan
+B05006_054E,Total,Asia,Eastern Asia,Korea
+B05006_055E,Total,Asia,Eastern Asia,Other Eastern Asia
+B05006_056E,Total,Asia,South Central Asia,
+B05006_057E,Total,Asia,South Central Asia,Afghanistan
+B05006_058E,Total,Asia,South Central Asia,Bangladesh
+B05006_059E,Total,Asia,South Central Asia,India
+B05006_060E,Total,Asia,South Central Asia,Iran
+B05006_061E,Total,Asia,South Central Asia,Kazakhstan
+B05006_062E,Total,Asia,South Central Asia,Nepal
+B05006_063E,Total,Asia,South Central Asia,Pakistan
+B05006_064E,Total,Asia,South Central Asia,Sri Lanka
+B05006_065E,Total,Asia,South Central Asia,Uzbekistan
+B05006_066E,Total,Asia,South Central Asia,Other South Central Asia
+B05006_067E,Total,Asia,South Eastern Asia,
+B05006_068E,Total,Asia,South Eastern Asia,Cambodia
+B05006_069E,Total,Asia,South Eastern Asia,Indonesia
+B05006_070E,Total,Asia,South Eastern Asia,Laos
+B05006_071E,Total,Asia,South Eastern Asia,Malaysia
+B05006_072E,Total,Asia,South Eastern Asia,Burma
+B05006_073E,Total,Asia,South Eastern Asia,Philippines
+B05006_074E,Total,Asia,South Eastern Asia,Singapore
+B05006_075E,Total,Asia,South Eastern Asia,Thailand
+B05006_076E,Total,Asia,South Eastern Asia,Vietnam
+B05006_077E,Total,Asia,South Eastern Asia,Other South Eastern Asia
+B05006_078E,Total,Asia,Western Asia,
+B05006_079E,Total,Asia,Western Asia,Iraq
+B05006_080E,Total,Asia,Western Asia,Israel
+B05006_081E,Total,Asia,Western Asia,Jordan
+B05006_082E,Total,Asia,Western Asia,Kuwait
+B05006_083E,Total,Asia,Western Asia,Lebanon
+B05006_084E,Total,Asia,Western Asia,Saudi Arabia
+B05006_085E,Total,Asia,Western Asia,Syria
+B05006_086E,Total,Asia,Western Asia,Yemen
+B05006_087E,Total,Asia,Western Asia,Turkey
+B05006_088E,Total,Asia,Western Asia,Armenia
+B05006_089E,Total,Asia,Western Asia,Other Western Asia
+B05006_090E,Total,Asia,"Asia,n.e.c.",
+B05006_091E,Total,Africa,,
+B05006_092E,Total,Africa,Eastern Africa,
+B05006_093E,Total,Africa,Eastern Africa,Eritrea
+B05006_094E,Total,Africa,Eastern Africa,Ethiopia
+B05006_095E,Total,Africa,Eastern Africa,Kenya
+B05006_096E,Total,Africa,Eastern Africa,Somalia
+B05006_097E,Total,Africa,Eastern Africa,Other Eastern Africa
+B05006_098E,Total,Africa,Middle Africa,
+B05006_099E,Total,Africa,Middle Africa,Cameroon
+B05006_100E,Total,Africa,Middle Africa,Other Middle Africa
+B05006_101E,Total,Africa,Northern Africa,
+B05006_102E,Total,Africa,Northern Africa,Egypt
+B05006_103E,Total,Africa,Northern Africa,Morocco
+B05006_104E,Total,Africa,Northern Africa,Sudan
+B05006_105E,Total,Africa,Northern Africa,Other Northern Africa
+B05006_106E,Total,Africa,Southern Africa,
+B05006_107E,Total,Africa,Southern Africa,South Africa
+B05006_108E,Total,Africa,Southern Africa,Other Southern Africa
+B05006_109E,Total,Africa,Western Africa,
+B05006_110E,Total,Africa,Western Africa,Cabo Verde
+B05006_111E,Total,Africa,Western Africa,Ghana
+B05006_112E,Total,Africa,Western Africa,Liberia
+B05006_113E,Total,Africa,Western Africa,Nigeria
+B05006_114E,Total,Africa,Western Africa,Sierra Leone
+B05006_115E,Total,Africa,Western Africa,Other Western Africa
+B05006_116E,Total,Africa,"Africa, n.e.c.",
+B05006_117E,Total,Oceania,,
+B05006_118E,Total,Oceania,Australia and New Zealand Subregion,
+B05006_119E,Total,Oceania,Australia and New Zealand Subregion,Australia
+B05006_120E,Total,Oceania,Australia and New Zealand Subregion,Other Australian and New Zealand Subregion
+B05006_121E,Total,Oceania,Fiji,
+B05006_122E,Total,Oceania,"Oceania, n.e.c.",
+B05006_123E,Total,Americas,,
+B05006_124E,Total,Americas,Latin America,
+B05006_125E,Total,Americas,Latin America,Caribbean
+B05006_126E,Total,Americas,Latin America,Bahamas
+B05006_127E,Total,Americas,Latin America,Barbados
+B05006_128E,Total,Americas,Latin America,Cuba
+B05006_129E,Total,Americas,Latin America,Dominica
+B05006_130E,Total,Americas,Latin America,Dominican Republic
+B05006_131E,Total,Americas,Latin America,Grenada
+B05006_132E,Total,Americas,Latin America,Haiti
+B05006_133E,Total,Americas,Latin America,Jamaica
+B05006_134E,Total,Americas,Latin America,St Vincent and the Grenadines
+B05006_135E,Total,Americas,Latin America,Trinidad and Tobago
+B05006_136E,Total,Americas,Latin America,West Indies
+B05006_137E,Total,Americas,Latin America,Other Caribbean
+B05006_138E,Total,Americas,Latin America,Central America
+B05006_139E,Total,Americas,Latin America,Mexico
+B05006_140E,Total,Americas,Latin America,Belize
+B05006_141E,Total,Americas,Latin America,Costa Rica
+B05006_142E,Total,Americas,Latin America,El Salvador
+B05006_143E,Total,Americas,Latin America,Guatemala
+B05006_144E,Total,Americas,Latin America,Honduras
+B05006_145E,Total,Americas,Latin America,Nicaragua
+B05006_146E,Total,Americas,Latin America,Panama
+B05006_147E,Total,Americas,Latin America,Other Central America
+B05006_148E,Total,Americas,Latin America,South America
+B05006_149E,Total,Americas,Latin America,Argentina
+B05006_150E,Total,Americas,Latin America,Bolivia
+B05006_151E,Total,Americas,Latin America,Brazil
+B05006_152E,Total,Americas,Latin America,Chile
+B05006_153E,Total,Americas,Latin America,Colombia
+B05006_154E,Total,Americas,Latin America,Ecuador
+B05006_155E,Total,Americas,Latin America,Guyana
+B05006_156E,Total,Americas,Latin America,Peru
+B05006_157E,Total,Americas,Latin America,Uruguay
+B05006_158E,Total,Americas,Latin America,Venezuela
+B05006_159E,Total,Americas,Latin America,Other South America
+B05006_160E,Total,Americas,Northern America,
+B05006_161E,Total,Americas,Northern America,Canada
+B05006_162E,Total,Americas,Northern America,Other Northern America
+B05006PR_001E,Total,,,
+B05006PR_002E,Total,Europe,,
+B05006PR_003E,Total,Europe,Northern Europe,
+B05006PR_004E,Total,Europe,Western Europe,
+B05006PR_005E,Total,Europe,Southern Europe,
+B05006PR_006E,Total,Europe,Southern Europe,Spain
+B05006PR_007E,Total,Europe,Southern Europe,Other Southern Europe
+B05006PR_008E,Total,Europe,Eastern Europe,
+B05006PR_009E,Total,Europe,"Europe, n.e.c.",
+B05006PR_010E,Total,Asia,,
+B05006PR_011E,Total,Asia,Eastern Asia,
+B05006PR_012E,Total,Asia,Eastern Asia,China
+B05006PR_013E,Total,Asia,Eastern Asia,China excluding Taiwan
+B05006PR_014E,Total,Asia,Eastern Asia,Taiwan
+B05006PR_015E,Total,Asia,Eastern Asia,Korea
+B05006PR_016E,Total,Asia,Eastern Asia,Other Eastern Asia
+B05006PR_017E,Total,Asia,South Central Asia,
+B05006PR_018E,Total,Asia,South Eastern Asia,
+B05006PR_019E,Total,Asia,Western Asia,
+B05006PR_020E,Total,Asia,"Asia,n.e.c.",
+B05006PR_021E,Total,Africa,,
+B05006PR_022E,Total,Oceania,,
+B05006PR_023E,Total,Americas,,
+B05006PR_024E,Total,Americas,Latin America,
+B05006PR_025E,Total,Americas,Latin America,Caribbean
+B05006PR_026E,Total,Americas,Latin America,Cuba
+B05006PR_027E,Total,Americas,Latin America,Dominican Republic
+B05006PR_028E,Total,Americas,Latin America,Haiti
+B05006PR_029E,Total,Americas,Latin America,Other Caribbean
+B05006PR_030E,Total,Americas,Latin America,Central America
+B05006PR_031E,Total,Americas,Latin America,Mexico
+B05006PR_032E,Total,Americas,Latin America,Costa Rica
+B05006PR_033E,Total,Americas,Latin America,El Salvador
+B05006PR_034E,Total,Americas,Latin America,Guatemala
+B05006PR_035E,Total,Americas,Latin America,Honduras
+B05006PR_036E,Total,Americas,Latin America,Panama
+B05006PR_037E,Total,Americas,Latin America,Other Central America
+B05006PR_038E,Total,Americas,Latin America,South America
+B05006PR_039E,Total,Americas,Latin America,Argentina
+B05006PR_040E,Total,Americas,Latin America,Chile
+B05006PR_041E,Total,Americas,Latin America,Colombia
+B05006PR_042E,Total,Americas,Latin America,Ecuador
+B05006PR_043E,Total,Americas,Latin America,Peru
+B05006PR_044E,Total,Americas,Latin America,Venezuela
+B05006PR_045E,Total,Americas,Latin America,Other South America
+B05006PR_046E,Total,Americas,Northern America,
+B05007_001E,Total,,,

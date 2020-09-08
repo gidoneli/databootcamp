@@ -1,0 +1,38 @@
+#map {
+    position: relative;
+    border: 1px solid white;
+    border-radius: 8px;
+    height: 600px;
+    /* or as desired */
+    width: 100%;
+}
+
+.leaflet-popup-content {
+    text-align: center;
+}
+
+
+/* CSS from the Leaflet-Choropleth documentation */
+
+.legend {
+    padding: 6px 8px;
+    font: 9px Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #555;
+    background: #fff;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.legend i {
+    width: 10px;
+    height: 10px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+h5 {
+    text-align: center;
+}
