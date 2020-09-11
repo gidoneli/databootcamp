@@ -1,45 +1,103 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
+# PROJECT 2
 ## Date: Agosto 2020
 ### By Raúl Flores Palacios
 
-## INTRODUCTION 
-We need you to write code that will create a table dynamically based upon a dataset we provide. We also need to allow our users to filter the table data for specific values. There’s a catch though… we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
+
+## A BRIEF ARTICULATION OF YOUR CHOSEN TOPIC AND RATIONALE. 
+Immigrants consist of almost 14% of the USA population. For this project we will analyze the main countries of origin for this immigrants and the most popular cities for destination. We will review variables that will give us more information on the group of people living in the main states.
+
+For these projects we will use the following sources: 
+United States Census Bureu: https://www.census.gov/data/tables/time-series/demo/geographic-mobility/historic.html.  This database contains all the information from USA about economy and people. For this specific project we use the immigrants information. They report information per state , or per birth country; as well as economic , education & status variables. 
+
+The Immigration Center: https://www.ilctr.org/quick-us-immigration-statistics/?gclid=EAIaIQobChMI-Yersuud6wIVB9bACh219wicEAAYAiAAEgKNufD_BwE. This database provides relevant information on immigration along with stadistics.
 
 
-## Level 1: Automatic Table and Date Search (Required)
-* Create a basic HTML web page or use the index.html file provided (we recommend building your own custom page!).
-* Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
-* Make sure you have a column for date/time, city, state, country, shape, and comment at the very least.
-* Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
+## 3 OR 4 SCREENSHOTS OF RELEVANT, “INSPIRING” VISUALIZATIONS THAT FRAME YOUR CREATIVE FODDER.
+The inspiration is llustrated here:
 
-* The link to the page is located here:
-
-https://github.com/raulfloresp/databootcamp/tree/master/javascript-challenge/UFO-level-1
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/javascript-challenge/images/challenge1.jpg?raw=true)
 
 
-The final webpage look is illustrated here:
+## A SKETCH OF THE FINAL DESIGN
+Refer to the following design:
+
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/javascript-challenge/images/challenge1.jpg?raw=true)
+
+
+## LINK TO GITHUB PAGE:
+https://github.com/raulfloresp/databootcamp/tree/master/javascript-challenge/UFO-level-2
+
+
+
+
+# FINAL PROJECT RESULTS
+
+## OBJECTIVES
+* Overview of USA Migration from Latin America countries. 
+* Locate the most popular cities for residence.
+* Review variables that give us more insights on the status and group of people per state.   
+
+
+## RESEARCH PROCESS
+Define the scope of the analysis: 
+* How immigrants behave on each of the states.
+* Demographic analysis. 
+* Focus on LatinAmerican countries. 
+
+
+Identify data sources: 
+* US Census
+* Migration Policy Institute
+* The Immigration Center
+* BEA
+
+
+* Identify the tool frameworks and resources to create the storytelling. 
+* D3 Gallery.
+* Mapbox.
+* Plotly.
+* AOS library (NEW). 
+
+
+
+## ETL PROCESS
+EXTRACT: 
+* United States Census : We use this database for getting the information on country of origin, number of immigrants per state, age, income, and other economic variables. Source of information :https://www.census.gov/data/tables/time-series/demo/geographic-mobility/historic.html. 
+
+
+TRANSFORM:
+* On Jupyter Notebook - Filter codes for country and state to create a data frame with all the data. 
+* Matrix with percentage of immigrants on each country and state.
+* Json file with immigrant numbers per state and country for scatter plot. 
+
+
+LOAD: 
+* Postgres loading: SQL structure.
+* Load from Pandas to Postgres. 
+
+
+## FRONT-END AND BACK-END
+The final result on the front-end is illustrated here:
 
 ![alt text](https://github.com/raulfloresp/databootcamp/blob/master/javascript-challenge/images/challenge1.jpg?raw=true)
 
 
 
-## Level 2: Multiple Search Categories (Optional) - BONUS
-Complete all of Level 1 criteria. Using multiple input tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
-* date/time
-* city
-* state
-* country
-* shape
+## CONCLUSIONS
+* Central American immigration is greater than South America. 
+* Mexico is an outlier compare to Latin countries. 
+* Caribbean islands tend to migrate to the East Coast. 
+* Central American migrants are more attractive to USA Hispanic origin states.  
+* Mexico & El Salvador are the top countries of birth from immigrants.
+* California, Florida & Texas are the most popular states. 
 
 
-* The link to the page is located here:
 
-https://github.com/raulfloresp/databootcamp/tree/master/javascript-challenge/UFO-level-2
-
-
-The final webpage look is illustrated here:
-
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/javascript-challenge/images/challenge2.jpg?raw=true)
+## LEARNINGS
+* Consolidation into a final endpoint takes time and complexity on merge. 
+* User interface and frontend is a complete project. 
+* ETL process is the biggest challenge. 
+* Deployment and production is an extra challenge. 
 
 
 
@@ -48,6 +106,9 @@ The final webpage look is illustrated here:
 * [Visual Studio Code](https://code.visualstudio.com/) - Source Code Editor
 * [GitHub](https://github.com/) - The version control software and repo
 * [Bootstrap](https://getbootstrap.com/) - Javascript Framework
+* [PostgreSQL](https://www.postgresql.org/) - Database
+* [Leaflet](https://leafletjs.com/) - Interactive Maps
+* [Javascript](https://www.javascript.com/) - Programing Language
 
 
 ## Authors
