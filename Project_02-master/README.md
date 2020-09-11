@@ -15,17 +15,17 @@ The Immigration Center: https://www.ilctr.org/quick-us-immigration-statistics/?g
 ## 3 OR 4 SCREENSHOTS OF RELEVANT, “INSPIRING” VISUALIZATIONS THAT FRAME YOUR CREATIVE FODDER.
 The inspiration is llustrated here:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/javascript-challenge/images/challenge1.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project_02-master/images/image01.jpg?raw=true)
 
 
 ## A SKETCH OF THE FINAL DESIGN
 Refer to the following design:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/javascript-challenge/images/challenge1.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project_02-master/images/image02.jpg?raw=true)
 
 
 ## LINK TO GITHUB PAGE:
-https://github.com/raulfloresp/databootcamp/tree/master/javascript-challenge/UFO-level-2
+https://github.com/raulfloresp/databootcamp/tree/master/Project_02-master
 
 
 
@@ -79,7 +79,7 @@ LOAD:
 ## FRONT-END AND BACK-END
 The final result on the front-end is illustrated here:
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/javascript-challenge/images/challenge1.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/Project_02-master/images/image02.jpg?raw=true)
 
 
 
