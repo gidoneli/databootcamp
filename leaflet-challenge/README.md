@@ -35,7 +35,7 @@ My final visualization is illustrated here:
 
 
 
-![alt text](https://github.com/raulfloresp/databootcamp/blob/master/D3-challenge/D3_data_journalism/images/final_chart.jpg?raw=true)
+![alt text](https://github.com/raulfloresp/databootcamp/blob/master/leaflet-challenge/Leaflet-Step-1/images/Page%20Ej01.jpg?raw=true)
 
 
 
